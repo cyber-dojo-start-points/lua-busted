@@ -1,0 +1,28 @@
+{
+  "display_name": "Lua 5.5, busted 2.3",
+  "language": [
+    "Lua",
+    "5.5"
+  ],
+  "test_framework": [
+    "busted",
+    "2.3"
+  ],
+  "image_name": "ghcr.io/cyber-dojo-languages/lua_busted:81cf7b4",
+  "visible_filenames": [
+    "hiker_spec.lua",
+    "hiker.lua",
+    "busted_assertions_spec.lua",
+    "cyber-dojo.sh"
+  ],
+  "rag_lambda": "red_amber_green.rb",
+  "filename_extension": [
+    ".lua"
+  ],
+  "progress_regexs": [
+    "(\\d+) success(es)? / ([1-9]\\d*) failures?",
+    "(\\d+) success(es)? / 0 failures? / 0 errors?"
+  ],
+  "max_seconds": 10,
+  "tab_size": 2
+}
