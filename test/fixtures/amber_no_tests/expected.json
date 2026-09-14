@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^Parse$": 1,
+    "^0 successes / 0 failures / 1 error / 0 pending : ": 1,
+    "^Error -> No test files found matching Lua pattern: _spec$": 1,
+    "^Failure -> ": 0
+  },
+  "truncated": false
+}

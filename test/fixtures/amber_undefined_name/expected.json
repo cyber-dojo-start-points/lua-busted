@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^\\./hiker_spec\\.lua:[0-9]+: attempt to call a nil value \\(global 'answer'\\)$"
+  ],
+  "match_counts": {
+    "^Parse$": 1,
+    "^0 successes / 0 failures / 1 error / 0 pending : ": 1,
+    "^Error -> \\./hiker_spec\\.lua @ [0-9]+$": 1,
+    "^Failure -> ": 0
+  },
+  "truncated": false
+}

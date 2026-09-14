@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^Parse$": 1,
+    "^luac: \\./hiker_spec\\.lua:[0-9]+: .*$": 1,
+    "successes? / ": 0
+  },
+  "truncated": false
+}

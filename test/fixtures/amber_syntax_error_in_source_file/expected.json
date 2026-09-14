@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^Parse$": 1,
+    "^luac: \\./hiker\\.lua:[0-9]+: malformed number near '9s'$": 1,
+    "successes? / ": 0
+  },
+  "truncated": false
+}

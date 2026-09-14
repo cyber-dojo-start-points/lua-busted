@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 15,
+  "match_counts": {
+    "^Parse$": 1,
+    "^2 successes / 0 failures / 0 errors / 0 pending : ": 1,
+    "^Failure -> ": 0,
+    "^Error -> ": 0
+  },
+  "truncated": false
+}

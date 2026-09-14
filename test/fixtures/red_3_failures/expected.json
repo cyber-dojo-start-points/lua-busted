@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^0 successes / 3 failures / 0 errors / 0 pending : ": 1,
+    "^Failure -> \\./hiker_spec\\.lua @ [0-9]+$": 3,
+    "^Error -> ": 0
+  },
+  "truncated": false
+}

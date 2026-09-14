@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^Parse$": 1,
+    "^luac: \\./answer_size_tests\\.lua:[0-9]+: .*$": 1,
+    "successes? / ": 0
+  },
+  "truncated": false
+}

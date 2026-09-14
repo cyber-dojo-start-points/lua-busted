@@ -1,0 +1,12 @@
+{
+  "max_output_lines": 20,
+  "match_counts": {
+    "^Parse$": 1,
+    "^1 success / 0 failures / 0 errors / 0 pending : ": 1,
+    "^debug: hiker\\.answer was called$": 1,
+    "^debug: hiker\\.answer is about to return 42$": 1,
+    "^Failure -> ": 0,
+    "^Error -> ": 0
+  },
+  "truncated": false
+}
