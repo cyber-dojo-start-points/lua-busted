@@ -1,14 +1,14 @@
 {
-  "display_name": "Lua 5.5, busted 2.3",
+  "display_name": "Lua 5.5.0, busted 2.3.0",
   "language": [
     "Lua",
-    "5.5"
+    "5.5.0"
   ],
   "test_framework": [
     "busted",
-    "2.3"
+    "2.3.0"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/lua_busted:81cf7b4",
+  "image_name": "ghcr.io/cyber-dojo-languages/lua_busted:1321f5d@sha256:7b68fcb57fd3470f63e217a753c104fb9ef6a68b815670aabb251037b145a625",
   "visible_filenames": [
     "hiker_spec.lua",
     "hiker.lua",
