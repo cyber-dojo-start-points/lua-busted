@@ -23,6 +23,5 @@
     "(\\d+) success(es)? / ([1-9]\\d*) failures?",
     "(\\d+) success(es)? / 0 failures? / 0 errors?"
   ],
-  "max_seconds": 10,
   "tab_size": 2
 }
